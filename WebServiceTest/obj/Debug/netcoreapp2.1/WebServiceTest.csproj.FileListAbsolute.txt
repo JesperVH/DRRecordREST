@@ -1,0 +1,42 @@
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.deps.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.runtimeconfig.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.runtimeconfig.dev.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csprojAssemblyReference.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.deps.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.runtimeconfig.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.runtimeconfig.dev.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csprojAssemblyReference.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfo.cs
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.deps.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.runtimeconfig.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.runtimeconfig.dev.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csprojAssemblyReference.cache

@@ -1,0 +1,45 @@
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.deps.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.runtimeconfig.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.runtimeconfig.dev.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.csprojAssemblyReference.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorAssemblyInfo.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorAssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.AssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorTargetAssemblyInfo.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.deps.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.runtimeconfig.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.runtimeconfig.dev.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.csprojAssemblyReference.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorAssemblyInfo.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorAssemblyInfo.cs
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.AssemblyInfo.cs
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorTargetAssemblyInfo.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.deps.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.runtimeconfig.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.runtimeconfig.dev.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorAssemblyInfo.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorAssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.AssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.RazorTargetAssemblyInfo.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.csprojAssemblyReference.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

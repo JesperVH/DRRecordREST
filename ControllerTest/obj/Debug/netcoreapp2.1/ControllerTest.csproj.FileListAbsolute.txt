@@ -1,0 +1,53 @@
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.deps.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.runtimeconfig.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.runtimeconfig.dev.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ModelLib.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ModelLib.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csprojAssemblyReference.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.AssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csproj.CopyComplete
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.deps.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.runtimeconfig.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.runtimeconfig.dev.json
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csprojAssemblyReference.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.AssemblyInfoInputs.cache
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.AssemblyInfo.cs
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csproj.CopyComplete
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.dll
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.pdb
+C:\Users\David\Downloads\DRRecordRESTZIP2\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.deps.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.runtimeconfig.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.runtimeconfig.dev.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\ControllerTest.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\DRRecordREST.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\DRRecordREST.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csprojAssemblyReference.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csproj.CoreCompileInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.AssemblyInfoInputs.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.AssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csproj.CopyComplete
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.dll
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.pdb
