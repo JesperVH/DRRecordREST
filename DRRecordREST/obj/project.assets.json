@@ -11942,23 +11942,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jesper Hansen\\.nuget\\packages\\": {},
+    "C:\\Users\\David\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
       "projectName": "DRRecordREST",
-      "projectPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
-      "packagesPath": "C:\\Users\\Jesper Hansen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\obj\\",
+      "projectPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
+      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jesper Hansen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

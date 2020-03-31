@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\ControllerTest.csproj": {}
+    "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\ControllerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\ControllerTest.csproj": {
+    "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\ControllerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
         "projectName": "ControllerTest",
-        "projectPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
-        "packagesPath": "C:\\Users\\Jesper Hansen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\obj\\",
+        "projectPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jesper Hansen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
-                "projectPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj"
+              "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
+                "projectPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj"
               }
             }
           }
@@ -61,10 +61,6 @@
               "target": "Package",
               "version": "[2.2.5, )"
             },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.3, )"
-            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
@@ -90,20 +86,20 @@
         }
       }
     },
-    "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
+    "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
         "projectName": "DRRecordREST",
-        "projectPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
-        "packagesPath": "C:\\Users\\Jesper Hansen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\obj\\",
+        "projectPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jesper Hansen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

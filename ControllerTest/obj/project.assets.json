@@ -5809,23 +5809,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jesper Hansen\\.nuget\\packages\\": {},
+    "C:\\Users\\David\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
       "projectName": "ControllerTest",
-      "projectPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
-      "packagesPath": "C:\\Users\\Jesper Hansen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\ControllerTest\\obj\\",
+      "projectPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\ControllerTest.csproj",
+      "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\ControllerTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jesper Hansen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5838,8 +5838,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
-              "projectPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj"
+            "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
+              "projectPath": "C:\\Users\\David\\Desktop\\Repository hub\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj"
             }
           }
         }
