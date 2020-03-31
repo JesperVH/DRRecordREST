@@ -51,3 +51,7 @@ C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordRE
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.csproj.CopyComplete
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.dll
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.pdb
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\ControllerTest\obj\Debug\netcoreapp2.1\ControllerTest.genruntimeconfig.cache

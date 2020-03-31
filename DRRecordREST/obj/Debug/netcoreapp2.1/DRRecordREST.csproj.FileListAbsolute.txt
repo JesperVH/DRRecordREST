@@ -43,3 +43,7 @@ C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordRE
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.pdb
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.csprojAssemblyReference.cache
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\DRRecordREST\obj\Debug\netcoreapp2.1\DRRecordREST.genruntimeconfig.cache

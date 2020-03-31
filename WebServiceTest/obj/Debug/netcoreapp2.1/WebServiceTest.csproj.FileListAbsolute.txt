@@ -34,9 +34,9 @@ C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordRE
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.runtimeconfig.dev.json
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.dll
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\bin\Debug\netcoreapp2.1\WebServiceTest.pdb
-C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csproj.CoreCompileInputs.cache
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfoInputs.cache
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.AssemblyInfo.cs
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.dll
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.pdb
 C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.csprojAssemblyReference.cache
+C:\Users\Jesper Hansen\Documents\Bibliotek\Programmering\DRRecordREST\DRRecordREST\WebServiceTest\obj\Debug\netcoreapp2.1\WebServiceTest.genruntimeconfig.cache

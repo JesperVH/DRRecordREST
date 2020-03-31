@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Downloads\\DRRecordRESTZIP2\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {}
+    "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Downloads\\DRRecordRESTZIP2\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
+    "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Downloads\\DRRecordRESTZIP2\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
+        "projectUniqueName": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
         "projectName": "DRRecordREST",
-        "projectPath": "C:\\Users\\David\\Downloads\\DRRecordRESTZIP2\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Downloads\\DRRecordRESTZIP2\\DRRecordREST\\DRRecordREST\\obj\\",
+        "projectPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\DRRecordREST.csproj",
+        "packagesPath": "C:\\Users\\Jesper Hansen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesper Hansen\\Documents\\Bibliotek\\Programmering\\DRRecordREST\\DRRecordREST\\DRRecordREST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jesper Hansen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -51,6 +55,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -73,7 +81,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
